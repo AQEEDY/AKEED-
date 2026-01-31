@@ -1,2 +1,2 @@
-// الصفحة الرئيسية
-export default function Home() { return <div>Home Page</div>; }
+// لوحة التحكم
+export default function Admin() { return <div>Admin Panel</div>; }
